@@ -103,6 +103,9 @@ ol {
   line-height: 24px;
   letter-spacing: 0.4px;
 }
+.no-title{
+    display: none;
+}
 .page-text {
   font-size: 16px;
   font-weight: 400;
