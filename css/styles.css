@@ -36,12 +36,10 @@ ol {
   letter-spacing: 0.02em;
   color:#2e2f42;
 }
-.nav-studio:hover {
+.nav-studio:hover, :focus{
   color: #404bbf;
 }
-.nav-studio:focus {
-  color: #404bbf;
-}
+
 .nav-portfolio {
   font-weight: 500;
   font-size: 16px;
@@ -60,7 +58,7 @@ ol {
   letter-spacing: 0.02em;
   color:#2e2f42;
 }
-.nav-portfolio:hover,
+.nav-contacts:hover,
 :focus {
   color: #404bbf;
 }
