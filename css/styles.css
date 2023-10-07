@@ -76,11 +76,9 @@ ol {
   cursor: pointer;
 }
 .page-button:hover, :focus {
-  color:#404BBF;
+  background-color:#404BBF;
 }
-.no-title {
-  display: none;
-}
+
 
 .page-info {
   background-color: #fff;
