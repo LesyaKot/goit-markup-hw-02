@@ -25,6 +25,7 @@ ol {
 .logo-studio {
   color: #2e2f42;
 }
+/* need or no */
 .page-nav {
   color: #2e2f42;
 }
@@ -40,7 +41,6 @@ ol {
 :focus {
   color: #404bbf;
 }
-
 .page-contacts {
   font-style: normal;
 }
@@ -70,16 +70,13 @@ ol {
 }
 
 .page-title {
-  color: #fff;
-  background-color: #2e2f42;
+  color: #ffffff;
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
   letter-spacing: 0.02em;
-  color: #ffffff;
 }
 .page-button {
-  color: #fff;
   background-color: #4d5ae5;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -101,51 +98,14 @@ ol {
 .page-info {
   background-color: #fff;
 }
-.page-section-srategy {
+.advantages-title {
   color: #2e2f42;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
-.page-text-strategy {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-.page--section-punctualily {
-  color: #2e2f42;
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-}
-.page-text-punctualily {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-.page-section-diligence {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-.page-text-diligence {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-.page-section-tech {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-.page-text-tech {
+.advantages-text {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -157,88 +117,49 @@ ol {
 }
 .team-title {
   color: #2e2f42;
-  background-color: #fff;
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
-.about-mark {
+.about-team {
   background-color: #ffffff;
 }
-.marcs-title {
+.name-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.marcs-position {
+.position {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
-.toms-title {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-.toms-position {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-.camilas-title {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-.camilas-position {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-.daniels-title {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-.daniels-position {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
+
 .portfolio-title {
   font-size: 36px;
-  line-height: 1.1;
+  line-height: 1.2;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
 }
-.app-title{
+.app-title {
   font-weight: 500;
-    font-size: 20px;
-    line-height: 1;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
+  font-size: 20px;
+  line-height: 1;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
-.app-text{
+.app-text {
   font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 
 .page-bottom {
