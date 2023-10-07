@@ -44,27 +44,16 @@ ol {
 .page-contacts {
   font-style: normal;
 }
-.page-mail {
+.mail-phone {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
-.page-mail:hover,
+.mail-phone:hover,
 :focus {
   color: #404bbf;
 }
-.page-tel {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-.page-tel:hover,
-:focus {
-  color: #404bbf;
-}
-
 .page-solutions {
   background-color: #2e2f42;
 }
@@ -86,13 +75,9 @@ ol {
   color: #ffffff;
   cursor: pointer;
 }
-.page-button:hover {
+.page-button:hover, :focus {
   color:#404BBF;
 }
-.page-button:focus {
-  color: #404BBF;
-}
-
 .no-title {
   display: none;
 }
