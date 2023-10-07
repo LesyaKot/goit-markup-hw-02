@@ -86,9 +86,11 @@ ol {
   color: #ffffff;
   cursor: pointer;
 }
-.page-button:hover,
-:focus {
-  color: #404bbf;
+.page-button:hover {
+  color:#404BBF;
+}
+.page-button:focus {
+  color: #404BBF;
 }
 
 .no-title {
@@ -133,7 +135,7 @@ ol {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.position {
+.name-text {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -151,7 +153,7 @@ ol {
 .app-title {
   font-weight: 500;
   font-size: 20px;
-  line-height: 1;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
